@@ -1,5 +1,5 @@
 
-Scripts I wrote for convenient
+Some useful scripts written by me.
 
 
 ###Index
