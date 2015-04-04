@@ -20,4 +20,7 @@ A script to backup pictures from qiniu
 
 A cheator for http://games.qq.com/flash/2004/20040315test.swf
 
+### BackupPicturesForGhostBlog.py
+
+A script to backup GhostBlog's pictures
 
