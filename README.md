@@ -14,4 +14,4 @@ http://www.patest.cn/contests/pat-a-practise/
 
 ### Backup Pictrues from Qiniu for Hexo
 
-A script to backup pictrues from qiniu
+A script to backup pictures from qiniu
